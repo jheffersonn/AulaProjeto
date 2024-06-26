@@ -30,3 +30,4 @@ C:\Users\jefsantos\source\repos\AulaProjeto2\obj\Debug\net8.0\refint\AulaProjeto
 C:\Users\jefsantos\source\repos\AulaProjeto2\obj\Debug\net8.0\AulaProjeto2.pdb
 C:\Users\jefsantos\source\repos\AulaProjeto2\obj\Debug\net8.0\AulaProjeto2.genruntimeconfig.cache
 C:\Users\jefsantos\source\repos\AulaProjeto2\obj\Debug\net8.0\ref\AulaProjeto2.dll
+C:\Users\jefsantos\source\repos\AulaProjeto2\obj\Debug\net8.0\AulaProjeto2.sourcelink.json
